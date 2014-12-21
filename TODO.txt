@@ -1,0 +1,6 @@
+1.Add server site database and synchronism.
+2.Import from Kindle vocabulary builder.
+3.epub/mobi/txt/pdf reader.
+4.dsl/bgl support.
+5.Review back button.
+6.Extract words from a text and analysis.

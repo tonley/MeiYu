@@ -1,0 +1,6 @@
+http://www.codeproject.com/Articles/746191/SQLite-Helper-CsharpThis
+
+C#连接SQLite的SQLHelper类 
+http://blog.sina.com.cn/s/blog_673ccb5b0101ghs7.html
+
+http://www.sufeinet.com/thread-2201-1-1.html
